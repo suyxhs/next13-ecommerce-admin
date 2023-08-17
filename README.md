@@ -7,7 +7,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-admin.git
+https://github.com/suyxhs/admin-store.git
 ```
 
 ### Install packages
